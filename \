@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "File Operations"
+touch sample.txt
+echo "Hello Linux" > sample.txt
+cat sample.txt
